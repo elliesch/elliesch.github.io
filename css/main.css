@@ -5,6 +5,9 @@ a:hover { text-decoration: underline; }
 
 p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
 
+p a:link { text-decoration: none; color: F15959; }
+p a:hover { text-decoration: underline; color: #999; }
+
 h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 h1 { font-size: 3em;  }
 h2 { font-size: 2.7em; }
