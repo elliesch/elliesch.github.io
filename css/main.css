@@ -25,3 +25,10 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 .cv address, .cv .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 .cv address, .cv p { font-size: 1.2em; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
+
+/* projects */
+.cv { margin: 0px 0px 60px; }
+.cv h1 { font-size: 3em; }
+.cv h2 { font-size: 2.4em; }
+.cv h3 { font-size: 1.6em; }
+.cv .download { float: right; font-size: .8em; text-transform: uppercase; }
