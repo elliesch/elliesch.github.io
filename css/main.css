@@ -19,6 +19,14 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
 
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
+/* about */
+.about { margin: 0px 0px 60px;}
+.about p { padding-bottom: 5px;}
+.about h1 { font-size: 3em; }
+.about h2 { font-size: 2.4em; }
+.about h3 { font-size: 1.6em; }
+.about a:link { text-decoration: none; color: #f15959; }
+.about a:hover { text-decoration: underline; color: #999; }
 
 /* CV */
 .cv { margin: 0px 0px 60px; }
