@@ -5,7 +5,7 @@ a:hover { text-decoration: underline; }
 
 p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
 
-p a:link { text-decoration: none; color: #f15959; }
+p a { text-decoration: none; color: #f15959; }
 p a:hover { text-decoration: underline; color: #999; }
 
 h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
@@ -25,7 +25,7 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 .about h1 { font-size: 3em; }
 .about h2 { font-size: 2.4em; }
 .about h3 { font-size: 1.6em; }
-.about a:link { text-decoration: none; color: #f15959; }
+.about a { text-decoration: none; color: #f15959; }
 .about a:hover { text-decoration: underline; color: #999; }
 
 /* CV */
